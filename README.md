@@ -1,8 +1,8 @@
-# contatinhos-pybr14
+# Participantes do BrejaTec
 
 Seu repositório de pythonistas queridos da #pythonbr14 o/
 
-[Site](https://moisesguimaraes.com/contatinhos-pybr14/)
+[Site em construção]()
 
 ## Como faço para criar meu contatinho?
 
@@ -19,10 +19,10 @@ Crie um arquivo *seu_nome*.md na pasta _contatinhos com o seguinte formato:
 ### Exemplo
 
     ---
-    nome: Moisés Guimarães
-    avatar: moisa.png
+    nome: Baesse
+    avatar: baesse.png
     tagline: (;,;)
-    contato: https://moisesguimaraes.com
+    contato: https://contato.pbaesse.net
     cor: style2
     ---
 
