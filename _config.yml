@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Contatinhos #pythonbr14"
-tagline: Bateu a saudade?<br/>Encontre seus coleguinhas aqui 😉
-author: Moisés Guimarães
-email: guimaraes+talks@pm.me
-baseurl: "/contatinhos-pybr14" # the subpath of your site, e.g. /blog
-url: "https://moisesguimaraes.com" # the base hostname & protocol for your site
+tagline: Bora conhecer a galera do BrejaTec?<br/>Encontre seus coleguinhas aqui 😉
+author: pBaesse
+email: pbaesse@gmail.com
+baseurl: "/BrejaTec-Contatos" # the subpath of your site, e.g. /blog
+url: "https://pbaesse.net" # the base hostname & protocol for your site
 
 collections:
   contatinhos:
